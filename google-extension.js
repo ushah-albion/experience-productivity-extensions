@@ -2,7 +2,7 @@
 
 module.exports = {
     name: 'Google Productivity Tools',
-    publisher: '',
+    publisher: 'Albion College',
     configuration: {
         client: [{
             key: 'googleOAuthClientId',
